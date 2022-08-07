@@ -21,7 +21,7 @@ public class Loginapplication {
 		Thread.sleep(1000);
 		rd.Submit().click();
 		rd.Home().click();
-//
+
 		
 }
 	
